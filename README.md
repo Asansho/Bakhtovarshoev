@@ -34,7 +34,7 @@
 
 ##### <i>Contac Me</i>
 
-- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Saydullayev_017)
+- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Pamir_Desejner_admin)
 
 - [![Instagram](https://img.shields.io/badge/-Instagram-2CA5E0?style=flat&logo=instagram&logoColor=red)](https://instagram.com/saydullayev_017?igshid=OGQ5ZDc2ODk2ZA==)
 
