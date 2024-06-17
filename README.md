@@ -7,7 +7,7 @@
 
 ### <i>About me</i>
 
->Hey there! I’m Saydullayev Javlonbek, 21 years old, currently living in Russia. Student of Mari State University.
+>Hey there! I’m Bakhtovarshoev Asansho, 23 years old, currently living in Russia. Student of Mari State University.
 
 <i>📚 My stack</i>
 
